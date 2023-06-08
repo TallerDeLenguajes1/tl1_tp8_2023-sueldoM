@@ -1,0 +1,15 @@
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\bin\Debug\net7.0\tp8.exe
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\bin\Debug\net7.0\tp8.deps.json
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\bin\Debug\net7.0\tp8.runtimeconfig.json
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\bin\Debug\net7.0\tp8.dll
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\bin\Debug\net7.0\tp8.pdb
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.csproj.AssemblyReference.cache
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.AssemblyInfoInputs.cache
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.AssemblyInfo.cs
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.csproj.CoreCompileInputs.cache
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.dll
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\refint\tp8.dll
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.pdb
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\tp8.genruntimeconfig.cache
+C:\taller1\tp8\tl1_tp8_2023-sueldoM\tp8\obj\Debug\net7.0\ref\tp8.dll
